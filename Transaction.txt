@@ -1,0 +1,13 @@
+Date                 Time                 Process              AmountOfMoney        RecieverName         SenderName          
+12/06/21             20:03:56             Transfer             1.0                  Gehad^nagah          jojo                 
+12/06/21             20:04:11             withdraw             2.0                  jojo                 jojo                 
+12/06/21             20:21:13             diposte              34567.0              Gehad^nagah          Gehad^nagah          
+12/06/21             22:35:21             Process Diposte Not Successful!! 
+12/06/21             23:02:46             diposte              400.0                Mohamed$we           Mohamed$we
+12/06/21             23:05:11              Process Transfer Not Successful!! 
+12/06/21             23:05:27             diposte              20.0                 Omar$he              Omar$he              
+12/06/21             23:05:55             Transfer             20.0                 ahmed                Omar$he              
+13/06/21             10:41:36             Transfer             4.0                  H&M                  ahmed                
+13/06/21             11:17:37             Transfer             50.0                 ahmed                jojo                 
+13/06/21             11:18:46             diposte              20.0                 jojo                 jojo                 
+13/06/21             11:20:07              Process Transfer Not Successful!! 
